@@ -5,5 +5,5 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ```
-npm instal reat
+node app.js instal reat
 ```
